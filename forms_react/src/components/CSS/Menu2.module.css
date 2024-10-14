@@ -1,0 +1,18 @@
+.menu2 {
+  width: 80%;
+  height: 300px;
+  margin: auto;
+  background-color: #f6fbfb;
+  display: flex;
+  flex-direction: row;
+  gap: 80px;
+}
+
+.menu2 div {
+  background-image: url(../assets/guitarrinha.jpg);
+  background-size: cover;
+  width: 15%;
+  height: 70%;
+  margin-left: 50px;
+  margin-top: 50px;
+}
