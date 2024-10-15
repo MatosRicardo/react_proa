@@ -1,0 +1,24 @@
+* {
+  font-family: Arial;
+}
+
+.footer {
+  width: 80%;
+  height: 200px;
+  margin: auto;
+  background-color: black;
+  color: white;
+  text-align: center;
+  img {
+    width: 25px;
+    cursor: pointer;
+    margin: 10px;
+  }
+  p {
+    padding-top: 20px;
+  }
+}
+
+.futi:hover {
+  width: 40px;
+}
