@@ -12,6 +12,7 @@ function Menu2() {
             <br />
             BRILHANTE
           </p>
+          <p className={styles.price}>R$ 989,50</p>
         </div>
         <div>
           <p className={styles.pezinho}>
@@ -21,6 +22,7 @@ function Menu2() {
             <br />
             BRILHANTE
           </p>
+          <p className={styles.price}>R$ 989,50</p>
         </div>
         <div>
           <p className={styles.pezinho}>
@@ -30,6 +32,7 @@ function Menu2() {
             <br />
             BRILHANTE
           </p>
+          <p className={styles.price}> R$ 989,50</p>
         </div>
         <div>
           <p className={styles.pezinho}>
@@ -39,6 +42,7 @@ function Menu2() {
             <br />
             BRILHANTE
           </p>
+          <p className={styles.price}>R$ 989,50</p>
         </div>
       </section>
     </>
