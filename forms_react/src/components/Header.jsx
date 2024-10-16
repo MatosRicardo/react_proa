@@ -6,11 +6,6 @@ function Header() {
     <>
       <section className={styles.header}>
         <ul>
-          {/* <li>Home</li>
-          <li>Quem Somos</li>
-          <li>Instrumentos</li>
-          <li>Endereço</li>
-          <li>Contato</li> */}
           <li>
             <Link to="#">Home</Link>
           </li>
