@@ -8,8 +8,8 @@ function Footer() {
     <>
       <section className={styles.footer}>
         <p>
-          Nossa Loja - Instrumentos Musicais <br /> Rua Tito, 54 - Lapa <br />{" "}
-          São Paulo - Brasil{" "}
+          Nossa Loja - Instrumentos Musicais <br /> Rua Tito, 54 - Lapa <br />
+          São Paulo - Brasil
         </p>
 
         <img src={whats} alt="" className={styles.futi} />
